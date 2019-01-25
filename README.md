@@ -5,7 +5,7 @@ Styler is a deep learning tool, in which style of one image is applied on style 
 
 I experimented it on Taj Mahal, and I'm attacing the styled version of it, that is output from the pretrained vgg19 after moulding it according to the paper.
 
-# Result!
+## Result!
 ### Final Image, One that vgg19 painted!
 ![Taj Style](https://raw.githubusercontent.com/aditya98ak/Styler/master/assets/taj_style.png)
 
